@@ -25,4 +25,4 @@ Aqui estão as competências técnicas e certificações formais que já finaliz
 
 ## 📬 Como me encontrar
 
-*   **Email:** ratschelnder.github@gmail.com
+*   **Email:** gustavo.schlender@gmail.com 
