@@ -4,17 +4,6 @@ Sou estudante de **Engenharia Civil na Universidade de Brasília (UnB)**. Meu fo
 
 ---
 
-## 🚀 Conhecimentos e Certificações Concluídas
-
-Aqui estão as competências técnicas e certificações formais que já finalizei:
-
-*   **Python:** Automação e manipulação de dados (Certificado ENAP — 20h, nota 87.5)
-*   **MATLAB:** Modelagem e computação numérica (Certificado MATLAB Onramp — MathWorks)
-*   **Análise de Dados & Planilhas:** Domínio completo do ecossistema de dados em Excel (Certificados ENAP em Excel Intermediário — 30h e Excel Avançado — 30h, nota 83.34)
-*   **Segurança Operacional:** Gestão e conformidade regulatória (Certificado Riscos Químicos nos Ambientes de Trabalho — ENAP — 14h)
-
----
-
 ## 💻 No que estou trabalhando
 
 *   Desenvolvimento de scripts de automação e análise de dados com Python.
